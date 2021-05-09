@@ -7,18 +7,18 @@
 
 
 ## Intorduce
-This project is just simple 'To Do List'.
-whiie using this app, 
-on the developer console
-there will be page log which is using context.
+This project is just simple 'To Do List'./n
+While using this app, /n
+on the developer console/n
+there will be page log which is using context./n
 
 ![image](https://user-images.githubusercontent.com/29941220/117567450-6900c180-b0f7-11eb-8407-ffa02b720ac8.png)
 
 ## Load
-(cmd) yarn
-(cmd) yarn start
+(cmd) yarn/n
+(cmd) yarn start/n
 (browser) http://localhost:3000
 
 ## Skills
-React
+React/n
 Typescript
