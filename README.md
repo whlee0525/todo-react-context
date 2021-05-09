@@ -12,6 +12,8 @@ whiie using this app,
 on the developer console
 there will be page log which is using context.
 
+![image](https://user-images.githubusercontent.com/29941220/117567450-6900c180-b0f7-11eb-8407-ffa02b720ac8.png)
+
 ## Load
 (cmd) yarn
 (cmd) yarn start
